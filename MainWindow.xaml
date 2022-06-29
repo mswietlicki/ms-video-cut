@@ -9,7 +9,7 @@
     <Grid>
         <!-- <ffme:MediaElement x:Name="media" Background="Gray" LoadedBehavior="Play" UnloadedBehavior="Manual" /> -->
         <!-- <vlc:VlcControl x:Name="media" /> -->
-        <MediaElement Name="media" Source="C:\Users\mateu\Videos\Dron\DJI_0147.MP4" />
+        <MediaElement Name="media" Source="C:\Users\mateu\Videos\2022-04-01 Gorce z Anią\DJI_0534.MP4" ScrubbingEnabled="true" LoadedBehavior="Manual" />
         <ProgressBar Name="sliderSeek" Height="5" VerticalAlignment="Bottom" Value="50" Maximum="100" Background="Transparent" BorderThickness="0" />
     </Grid>
 </Window>
